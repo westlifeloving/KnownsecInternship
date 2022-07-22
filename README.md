@@ -1,5 +1,4 @@
-# 知道创宇实习创宇盾控制策略登陆页面以及策略的增删改项目
-
+# 知道创宇实习创宇盾控制策略登陆页面以及策略的增删改项目（vue.js+vue router+element ui实现）
 ## Project setup
 ```
 npm install
