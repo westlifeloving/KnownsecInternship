@@ -22,14 +22,18 @@
 
 11.项目中使用了绝大多数element ui中的组件，所以使用的是完整引入没有使用按需引入
 
+登陆页面：
 
-![image]
+![image](https://github.com/westlifeloving/KnownsecInternship-mainproject/blob/main/IMG/%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2.png)
 
-![image]
+注册页面：
+![image](https://github.com/westlifeloving/KnownsecInternship-mainproject/blob/main/IMG/%E6%B3%A8%E5%86%8C%E9%A1%B5%E9%9D%A2.png)
 
-![image]
+控制策略页面：
+![image](https://github.com/westlifeloving/KnownsecInternship-mainproject/blob/main/IMG/%E6%8E%A7%E5%88%B6%E7%AD%96%E7%95%A5%E9%A1%B5%E9%9D%A2.png)
 
-![image]
+添加策略页面：
+![image](https://github.com/westlifeloving/KnownsecInternship-mainproject/blob/main/IMG/%E6%B7%BB%E5%8A%A0%E7%AD%96%E7%95%A5%E9%A1%B5%E9%9D%A2.png)
 
 ## Project setup
 ```
