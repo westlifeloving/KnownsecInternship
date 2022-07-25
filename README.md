@@ -22,6 +22,15 @@
 
 11.项目中使用了绝大多数element ui中的组件，所以使用的是完整引入没有使用按需引入
 
+
+![image]
+
+![image]
+
+![image]
+
+![image]
+
 ## Project setup
 ```
 npm install
